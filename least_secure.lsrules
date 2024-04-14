@@ -2427,22 +2427,11 @@
 		  "priority": "regular",
 		  "process": "/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed",
 		  "owner": "any",
-		  "remote-hosts": "17.133.234.33",
+		  "remote": "any",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jan 16, 2023, gamed tried to establish a connection to 17.133.234.33. The request was allowed via connection alert.",
 		  "action": "deny"
-		},
-		{
-		  "direction": "outgoing",
-		  "priority": "regular",
-		  "process": "/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed",
-		  "owner": "any",
-		  "remote": "any",
-		  "ports": "443",
-		  "protocol": "any",
-		  "notes": "On Dec 14, 2022, gamed tried to establish a connection to 69.92.220.176. The request was denied via connection alert.",
-		  "action": "allow"
 		},
 		{
 		  "direction": "outgoing",
