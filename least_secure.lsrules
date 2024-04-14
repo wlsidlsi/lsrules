@@ -415,8 +415,6 @@
 		  "priority": "regular",
 		  "process": "/Library/Bitdefender/Central/Agent/bdagentd",
 		  "owner": "system",
-		  "remote": "any",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 14, 2023, bdagentd tried to establish a connection to 24.116.0.53. The request was allowed via connection alert."
 		},
@@ -426,8 +424,6 @@
 		  "priority": "regular",
 		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDCoreIssues.bundle/Contents/MacOS/BDCoreIssues",
 		  "owner": "system",
-		  "remote": "any",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 14, 2023, BDCoreIssues tried to establish a connection to 24.116.0.53. The request was allowed via connection alert."
 		},
@@ -437,8 +433,6 @@
 		  "priority": "regular",
 		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDLDaemon.app/Contents/MacOS/BDLDaemon",
 		  "owner": "system",
-		  "remote": "any",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 14, 2023, BDLDaemon tried to establish a connection to 24.116.0.53. The request was allowed via connection alert."
 		},
@@ -448,8 +442,6 @@
 		  "priority": "regular",
 		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon",
 		  "owner": "system",
-		  "remote-domains": "bitdefender.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Nov 13, 2023, BDUpdDaemon tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert."
 		},
@@ -459,8 +451,6 @@
 		  "priority": "regular",
 		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon",
 		  "owner": "system",
-		  "remote-domains": "quad9.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jan 7, 2024, BDUpdDaemon tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
 		},
@@ -470,8 +460,6 @@
 		  "priority": "regular",
 		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon",
 		  "owner": "system",
-		  "remote-domains": "xicdn.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Nov 13, 2023, BDUpdDaemon tried to establish a connection to cs2348.wpc.xicdn.net. The request was allowed via connection alert."
 		},
@@ -602,8 +590,6 @@
 		  "priority": "regular",
 		  "process": "/Library/Bitdefender/Central/Agent/BitdefenderUninstaller.app/Contents/MacOS/BitdefenderUninstaller",
 		  "owner": "system",
-		  "remote-domains": "bitdefender.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Nov 13, 2023, Bitdefender Uninstaller via bduninstaller tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert."
 		},
@@ -2801,8 +2787,6 @@
 		  "priority": "regular",
 		  "process": "/Library/Bitdefender/Central/Modules/com.bitdefender.avformac/PlatformController",
 		  "owner": "system",
-		  "remote-domains": "bitdefender.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Nov 13, 2023, PlatformController tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert.",
 		  "action": "allow"
@@ -12776,8 +12760,6 @@
   		  "priority": "regular",
   		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/PlugIns/TLL.appex/Contents/MacOS/TLL",
   		  "owner": "system",
-  		  "remote-domains": "bitdefender.net",
-  		  "protocol": "any",
   		  "notes": "On Apr 13, 2024, TLL tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert."
   		}
 	]
