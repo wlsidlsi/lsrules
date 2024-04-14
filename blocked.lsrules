@@ -8,7 +8,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "69.173.151.97",
+	    "remote-addresses": "69.173.151.97",
 	    "protocol": "any",
 	    "notes": "Rubicon Project"
 	  },
@@ -18,7 +18,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "74.119.119.131",
+	    "remote-addresses": "74.119.119.131",
 	    "protocol": "any",
 	    "notes": "Criteo"
 	  },
@@ -28,7 +28,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "198.18.72.253",
+	    "remote-addresses": "198.18.72.253",
 	    "protocol": "any",
 	    "notes": "On Jun 14, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to 198.18.72.253. The request was denied via connection alert."
 	  },
