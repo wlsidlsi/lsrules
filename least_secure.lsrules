@@ -12799,17 +12799,6 @@
   		  "action": "allow",
   		  "direction": "outgoing",
   		  "priority": "regular",
-  		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDCoreIssues.bundle/Contents/MacOS/BDCoreIssues",
-  		  "owner": "system",
-  		  "remote-domains": "bitdefender.net",
-  		  "ports": "any",
-  		  "protocol": "any",
-  		  "notes": "On Apr 13, 2024, BDCoreIssues tried to establish a connection to push.bitdefender.net. The request was allowed via connection alert."
-  		},
-  		{
-  		  "action": "allow",
-  		  "direction": "outgoing",
-  		  "priority": "regular",
   		  "process": "/usr/libexec/nsurlsessiond",
   		  "owner": "system",
   		  "remote-domains": "amazonaws.com",
