@@ -1,8 +1,7 @@
 {
-	"name: "blocked",
 	"description": "",
-	"rules":
-	[
+	"name: "blocked",
+	"rules": [
 	  {
 	    "action": "deny",
 	    "direction": "outgoing",
