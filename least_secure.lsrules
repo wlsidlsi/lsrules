@@ -12378,7 +12378,6 @@
 		},
 		{
 		  "remote-domains": "ripe.net",
-		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jan 25, 2023, Terminal via whois tried to establish a connection to whois.ripe.net. The request was allowed via connection alert.",
 		  "action": "allow",
@@ -12790,7 +12789,6 @@
   		  "process": "/Library/Application Support/Objective Development/Little Snitch/Components/at.obdev.littlesnitch.daemon.bundle/Contents/XPCServices/at.obdev.littlesnitch.urldownloader.xpc/Contents/MacOS/at.obdev.littlesnitch.urldownloader",
   		  "owner": "system",
   		  "remote-domains": "githubusercontent.com",
-  		  "ports": "any",
   		  "protocol": "any",
   		  "notes": "On Apr 13, 2024, at.obdev.littlesnitch.urldownloader tried to establish a connection to raw.githubusercontent.com. The request was allowed via connection alert."
   		},
@@ -12801,7 +12799,6 @@
   		  "process": "/usr/libexec/nsurlsessiond",
   		  "owner": "system",
   		  "remote-domains": "amazonaws.com",
-  		  "ports": "any",
   		  "protocol": "any",
   		  "notes": "On Apr 13, 2024, nsurlsessiond tried to establish a connection to us-ore-00001.s3.dualstack.us-west-2.amazonaws.com. The request was allowed via connection alert."
   		},
