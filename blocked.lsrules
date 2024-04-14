@@ -1,6 +1,6 @@
 {
 	"description": "",
-	"name": "blocked",
+	"name": "Blocked",
 	"rules": [
 	  {
 	    "action": "deny",
