@@ -12377,27 +12377,6 @@
 		  "owner": "any"
 		},
 		{
-		  "remote-domains": "ripe.net",
-		  "protocol": "any",
-		  "notes": "On Jan 25, 2023, Terminal via whois tried to establish a connection to whois.ripe.net. The request was allowed via connection alert.",
-		  "action": "allow",
-		  "direction": "outgoing",
-		  "priority": "regular",
-		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/PlugIns/TLL.appex/Contents/MacOS/TLL",
-		  "owner": "any"
-		},
-		{
-		  "remote-domains": "bitdefender.net",
-		  "ports": "443",
-		  "protocol": "any",
-		  "notes": "On Apr 13, 2024, TLL tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert.",
-		  "action": "allow",
-		  "direction": "outgoing",
-		  "priority": "regular",
-		  "process": "/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd",
-		  "owner": "system"
-		},
-		{
 		  "remote-hosts": "ipad.local",
 		  "ports": "443",
 		  "protocol": "any",
@@ -12807,9 +12786,8 @@
   		  "direction": "outgoing",
   		  "priority": "regular",
   		  "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/PlugIns/TLL.appex/Contents/MacOS/TLL",
-  		  "owner": "me",
+  		  "owner": "system",
   		  "remote-domains": "bitdefender.net",
-  		  "ports": "any",
   		  "protocol": "any",
   		  "notes": "On Apr 13, 2024, TLL tried to establish a connection to nimbus.bitdefender.net. The request was allowed via connection alert."
   		}
