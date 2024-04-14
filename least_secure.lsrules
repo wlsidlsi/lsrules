@@ -12783,12 +12783,6 @@
 		  "priority": "regular",
 		  "process": "/usr/libexec/wifivelocityd",
 		  "owner": "system"
-		},
-		{
-		  "remote-domains": "quad9.net",
-		  "ports": "443",
-		  "protocol": "any",
-		  "notes": "On Jan 7, 2024, wifivelocityd tried to establish a connection to dns.quad9.net using the ICMP protocol. The request was allowed via connection alert."
 		}
 	]
 }
