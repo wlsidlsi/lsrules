@@ -4981,6 +4981,16 @@
 	    "remote-domains": "zohopublic.com",
 	    "protocol": "any",
 	    "notes": "On Jan 27, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to forms.zohopublic.com. The request was denied via connection alert."
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed",
+	    "owner": "any",
+	    "protocol": "any",
+	    "notes": "On Apr 13, 2024, gamed tried to establish a connection to 17.188.180.200. The request was denied via connection alert."
 	  }
+
 	]
 }
