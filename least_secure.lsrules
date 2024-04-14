@@ -8,7 +8,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "64.233.160.0-64.233.191.255",
+		  "remote-addresses": "64.233.160.0-64.233.191.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Google Cloud"
@@ -30,7 +30,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "142.250.0.0-142.251.255.255",
+		  "remote-addresses": "142.250.0.0-142.251.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Google Cloud"
@@ -41,7 +41,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "13.244.0.0-13.251.255.255",
+		  "remote-addresses": "13.244.0.0-13.251.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Amazon"
@@ -52,7 +52,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "172.64.0.0-172.71.255.255",
+		  "remote-addresses": "172.64.0.0-172.71.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Cloudflare"
@@ -63,7 +63,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "104.16.0.0-104.31.255.255",
+		  "remote-addresses": "104.16.0.0-104.31.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Cloudflare"
@@ -74,7 +74,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "13.24.0.0-13.59.255.255",
+		  "remote-addresses": "13.24.0.0-13.59.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Amazon"
@@ -85,7 +85,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "13.200.0.0-13.239.255.255",
+		  "remote-addresses": "13.200.0.0-13.239.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Amazon"
@@ -96,7 +96,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "34.128.0.0-34.191.255.255",
+		  "remote-addresses": "34.128.0.0-34.191.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Amazon"
@@ -107,7 +107,7 @@
 		  "priority": "regular",
 		  "process": "any",
 		  "owner": "any",
-		  "remote-hosts": "3.128.0.0-3.255.255.255",
+		  "remote-addresses": "3.128.0.0-3.255.255.255",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "Amazon"
@@ -349,7 +349,7 @@
 		  "priority": "regular",
 		  "process": "/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService",
 		  "owner": "any",
-		  "remote-hosts": "9.9.9.9",
+		  "remote-addresses": "9.9.9.9",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 14, 2022, AssetCacheLocatorService tried to establish a connection to 9.9.9.9. The request was allowed via connection alert."
@@ -810,7 +810,7 @@
 		  "priority": "regular",
 		  "process": "/usr/libexec/configd",
 		  "owner": "system",
-		  "remote-hosts": "192.168.4.1",
+		  "remote-addresses": "192.168.4.1",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 21, 2022, configd tried to establish a connection to 192.168.4.1. The request was allowed via connection alert.",
@@ -821,7 +821,7 @@
 		  "priority": "regular",
 		  "process": "/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter",
 		  "owner": "any",
-		  "remote-hosts": "192.168.4.28",
+		  "remote-addresses": "192.168.4.28",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Mar 29, 2023, a computer with IP address 192.168.4.28 tried to establish an incoming connection to Control Center. The request was allowed via connection alert.",
@@ -832,7 +832,7 @@
 		  "priority": "regular",
 		  "process": "/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter",
 		  "owner": "any",
-		  "remote-hosts": "192.168.4.107",
+		  "remote-addresses": "192.168.4.107",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Mar 29, 2023, a computer with IP address 192.168.4.107 tried to establish an incoming connection to Control Center. The request was allowed via connection alert.",
@@ -975,7 +975,7 @@
 		  "priority": "regular",
 		  "process": "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox",
 		  "owner": "any",
-		  "remote-hosts": "172.217.164.74",
+		  "remote-addresses": "172.217.164.74",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jan 15, 2023, Firefox Developer Edition tried to establish a connection to 172.217.164.74. The request was allowed via connection alert.",
@@ -2954,7 +2954,7 @@
 		  "priority": "regular",
 		  "process": "/Applications/Safari.app/Contents/MacOS/Safari",
 		  "owner": "any",
-		  "remote-hosts": "1.1.1.1",
+		  "remote-addresses": "1.1.1.1",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jul 4, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to 1.1.1.1. The request was allowed via connection alert.",
@@ -12410,7 +12410,7 @@
 		  "owner": "any"
 		},
 		{
-		  "remote-hosts": "9.9.9.9",
+		  "remote-addresses": "9.9.9.9",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jan 23, 2023, Visual Studio Code via Code Helper tried to establish a connection to 9.9.9.9. The request was allowed via connection alert.",
@@ -12674,7 +12674,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.23.201",
+		  "remote-addresses": "17.253.23.201",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 14, 2023, wifivelocityd tried to establish a connection to 17.253.23.201 using the ICMP protocol. The request was allowed via connection alert.",
@@ -12685,7 +12685,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.127.201",
+		  "remote-addresses": "17.253.127.201",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Feb 1, 2023, wifivelocityd tried to establish a connection to 17.253.127.201 using the ICMP protocol. The request was allowed via connection alert.",
@@ -12696,7 +12696,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.127.204",
+		  "remote-addresses": "17.253.127.204",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Jun 18, 2022, wifivelocityd tried to establish a connection to 17.253.127.204 using the ICMP protocol. The request was allowed via connection alert.",
@@ -12707,7 +12707,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.127.210",
+		  "remote-addresses": "17.253.127.210",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 16, 2022, wifivelocityd tried to establish a connection to 17.253.127.210 using the ICMP protocol. The request was allowed via connection alert.",
@@ -12718,7 +12718,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.127.213",
+		  "remote-addresses": "17.253.127.213",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Nov 1, 2022, wifivelocityd tried to establish a connection to 17.253.127.213 using the ICMP protocol. The request was denied automatically during a macOS update.",
@@ -12729,7 +12729,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "17.253.127.216",
+		  "remote-addresses": "17.253.127.216",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On May 1, 2022, wifivelocityd tried to establish a connection to 17.253.127.216 using the ICMP protocol. The request was allowed via connection alert.",
@@ -12740,7 +12740,7 @@
 		  "owner": "system"
 		},
 		{
-		  "remote-hosts": "192.168.4.1",
+		  "remote-addresses": "192.168.4.1",
 		  "ports": "443",
 		  "protocol": "any",
 		  "notes": "On Dec 27, 2022, wifivelocityd tried to establish a connection to 192.168.4.1 using the ICMP protocol. The request was allowed via connection alert.",
