@@ -12772,7 +12772,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "agrd.eu",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 31, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to st.agrd.eu. The request was allowed via connection alert."
                 },
@@ -12784,7 +12784,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "api.aws",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 31, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to internetmonitor.us-west-1.api.aws. The request was allowed via connection alert."
                 },
@@ -12796,7 +12796,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "athreattodemocracy.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 31, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to athreattodemocracy.com. The request was allowed via connection alert."
                 },
@@ -12808,7 +12808,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "btloader.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 26, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to api.btloader.com. The request was allowed via connection alert."
                 },
@@ -12820,7 +12820,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "crutchfield.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to www.crutchfield.com. The request was allowed via connection alert."
                 },
@@ -12832,7 +12832,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "epson.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to epson.com. The request was allowed via connection alert."
                 },
@@ -12844,7 +12844,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "epson.net",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to support.epson.net. The request was allowed via connection alert."
                 },
@@ -12856,7 +12856,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "ffmpeg.org",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to trac.ffmpeg.org. The request was allowed via connection alert."
                 },
@@ -12868,7 +12868,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "fox4news.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 25, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to www.fox4news.com. The request was allowed via connection alert."
                 },
@@ -12880,7 +12880,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "foxtv.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 25, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to static.foxtv.com. The request was allowed via connection alert."
                 },
@@ -12892,7 +12892,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "goepson.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to mediaserver.goepson.com. The request was allowed via connection alert."
                 },
@@ -12904,7 +12904,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "outkick.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 29, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to www.outkick.com. The request was allowed via connection alert."
                 },
@@ -12916,7 +12916,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "postimg.cc",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 29, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to i.postimg.cc. The request was allowed via connection alert."
                 },
@@ -12928,7 +12928,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "rumble.cloud",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 31, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to hugh.cdn.rumble.cloud. The request was allowed via connection alert."
                 },
@@ -12940,7 +12940,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "rumble.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 31, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to rumble.com. The request was allowed via connection alert."
                 },
@@ -12952,7 +12952,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "samsung.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 27, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to www.samsung.com. The request was allowed via connection alert."
                 },
@@ -12964,7 +12964,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "tomsguide.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 29, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to www.tomsguide.com. The request was allowed via connection alert."
                 },
@@ -12976,7 +12976,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "videolan.org",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 29, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to forum.videolan.org. The request was allowed via connection alert."
                 },
@@ -12988,7 +12988,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "weather.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 25, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to widgets.media.weather.com. The request was allowed via connection alert."
                 },
@@ -13000,7 +13000,7 @@
                   "process": "identifier.APPLE/com.apple.Safari",
                   "owner": "me",
                   "remote-domains": "webllena.com",
-                  "ports": "any",
+                  "ports": "443",
                   "protocol": "any",
                   "notes": "On May 29, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to webllena.com. The request was allowed via connection alert."
                 }
