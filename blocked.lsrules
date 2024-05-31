@@ -4980,7 +4980,61 @@
 	    "owner": "any",
 	    "protocol": "any",
 	    "notes": "On Apr 13, 2024, gamed tried to establish a connection to 17.188.180.200. The request was denied via connection alert."
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "ap.org",
+	    "protocol": "any",
+	    "notes": "fake news"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "euid.eu",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "lo4d.com",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "tallysight.com",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "turnto.com",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "optibase.io",
+	    "protocol": "any"
 	  }
-
 	]
 }
