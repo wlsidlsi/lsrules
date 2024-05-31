@@ -5035,6 +5035,15 @@
 	    "owner": "any",
 	    "remote-domains": "optibase.io",
 	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "futurehybrid.tech",
+	    "protocol": "any"
 	  }
 	]
 }
