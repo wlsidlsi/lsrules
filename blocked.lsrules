@@ -497,16 +497,6 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "me",
-	    "remote-domains": "openmusictheory.com",
-	    "protocol": "any",
-	    "notes": "On Mar 26, 2024, Safari tried to establish a connection to openmusictheory.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "me",
 	    "remote-domains": "push4site.com",
 	    "protocol": "any",
 	    "notes": "On Apr 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to usakasperskycom.push4site.com. The request was denied via connection alert."
