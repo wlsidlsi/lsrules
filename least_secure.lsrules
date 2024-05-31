@@ -12162,6 +12162,7 @@
 		  "action": "allow"
 		},
 		{
+		  "access": "allow",
 		  "direction": "outgoing",
 		  "priority": "regular",
 		  "process": "/System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal",
