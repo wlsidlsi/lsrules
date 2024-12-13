@@ -8,6 +8,136 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
+            "remote-hosts": "domain app-analytics-services.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to app-analytics-services.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain cdngslb.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to cdngslb.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain chimpstatic.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to chimpstatic.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain clan.su",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to clan.su. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain edgio.net",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to edgio.net. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain factsetdigitalsolutions.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to factsetdigitalsolutions.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain kunlungr.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to kunlungr.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain mykaleidoscope.ru",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to mykaleidoscope.ru. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain pubmnet.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to pubmnet.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain tech.lgbt",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to tech.lgbt. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain wondershare.com",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to wondershare.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain wpsoul.net",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to wpsoul.net. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "domain yahoodns.net",
+            "protocol": "any",
+            "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to yahoodns.net. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
             "remote-hosts": "domain adobe.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to adobe.io. The request was denied via connection alert."
