@@ -378,7 +378,7 @@
       "process": "/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService",
       "owner": "any",
       "remote-hosts": "domain quad9.net",
-      "ports": "443",
+      "ports": "any",
       "protocol": "any",
       "notes": "On Nov 8, 2022, AssetCacheLocatorService tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
     },
