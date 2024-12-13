@@ -375,7 +375,7 @@
       "action": "allow",
       "direction": "outgoing",
       "priority": "regular",
-      "process": "/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService",
+      "process": "any",
       "owner": "any",
       "remote-hosts": "domain quad9.net",
       "ports": "any",
