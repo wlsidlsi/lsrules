@@ -78,39 +78,9 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-domains": "radiodownloaddw-a.akamaihd.net",
-	    "protocol": "any",
-	    "notes": "On Apr 28, 2022, nsurlsessiond tried to establish a connection to radiodownloaddw-a.akamaihd.net. The request was allowed via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "tvdownloaddw-a.akamaihd.net",
-	    "protocol": "any",
-	    "notes": "On Apr 28, 2022, nsurlsessiond tried to establish a connection to tvdownloaddw-a.akamaihd.net. The request was allowed via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
 	    "remote-domains": "amazon.co.jp",
 	    "protocol": "any",
 	    "notes": "On Apr 20, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to read.amazon.co.jp. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "wac.edgecastcdn.net",
-	    "protocol": "any",
-	    "notes": "On Jun 17, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to cs41.wac.edgecastcdn.net. The request was denied via connection alert."
 	  },
 	  {
 	    "action": "deny",
@@ -2683,39 +2653,9 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-domains": "ketchcdn.com",
-	    "protocol": "any",
-	    "notes": "On Jan 6, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to global.ketchcdn.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "ketchjs.com",
-	    "protocol": "any",
-	    "notes": "On Jan 6, 2023, Firefox Developer Edition tried to establish a connection to cdn.ketchjs.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
 	    "remote-domains": "klaviyo.com",
 	    "protocol": "any",
 	    "notes": "On Feb 8, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to a.klaviyo.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "knotch-cdn.com",
-	    "protocol": "any",
-	    "notes": "On Jul 2, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to www.knotch-cdn.com. The request was denied via connection alert."
 	  },
 	  {
 	    "action": "deny",
