@@ -8,7 +8,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-hosts": "domain akamai.com",
+      "remote-domainss": "akamai.com",
       "protocol": "any",
     },
     {
@@ -17,7 +17,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-hosts": "domain amazonaws.com",
+      "remote-domains": "amazonaws.com",
       "protocol": "any",
     },
     {
