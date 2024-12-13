@@ -377,7 +377,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-hosts": "domain quad9.net",
+      "remote-domains": "quad9.net",
       "ports": "any",
       "protocol": "any",
       "notes": "On Nov 8, 2022, AssetCacheLocatorService tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
@@ -469,7 +469,6 @@
       "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon",
       "owner": "system",
       "protocol": "any",
-      "notes": "On Jan 7, 2024, BDUpdDaemon tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
     },
     {
       "action": "allow",
@@ -9250,17 +9249,6 @@
       "protocol": "any"
     },
     {
-      "notes": "On Dec 10, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to www.pythontutorial.net. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "quad9.net",
-      "ports": "443",
-      "protocol": "any"
-    },
-    {
       "action": "allow",
       "direction": "outgoing",
       "priority": "regular",
@@ -12254,28 +12242,6 @@
       "ports": "443"
     },
     {
-      "protocol": "any",
-      "notes": "On Dec 29, 2022, Terminal via Python tried to establish a connection to files.pythonhosted.org. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal",
-      "via": "/usr/bin/dig",
-      "owner": "any",
-      "remote-domains": "quad9.net"
-    },
-    {
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 18, 2022, Terminal via dig tried to establish a connection to dns.quad9.net. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal",
-      "via": "/usr/bin/whois",
-      "owner": "any"
-    },
-    {
       "remote-hosts": "ipad.local",
       "ports": "443",
       "protocol": "any",
@@ -13072,17 +13038,6 @@
       "ports": 443,
       "protocol": "any",
       "notes": "On May 25, 2024, Proton Mail tried to establish a connection to objects.githubusercontent.com. The request was allowed via connection alert."
-    },
-    {
-      "action": "allow",
-      "direction": "inout",
-      "priority": "regular",
-      "process": "identifier.6UN54H93QT/ch.protonmail.desktop",
-      "owner": "me",
-      "remote-domains": "quad9.net",
-      "ports": 443,
-      "protocol": "any",
-      "notes": "On May 25, 2024, Proton Mail via Proton Mail Helper tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
     },
     {
       "action": "allow",
