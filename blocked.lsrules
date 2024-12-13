@@ -8,9 +8,9 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-addresses": "69.173.151.97",
+	    "remote-addresses": "69.173.144.0 - 69.173.159.255",
 	    "protocol": "any",
-	    "notes": "Rubicon Project"
+	    "notes": "Magnite, Inc. is a leading independent sell-side advertising platform."
 	  },
 	  {
 	    "action": "deny",
@@ -18,19 +18,19 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-addresses": "74.119.119.131",
+	    "remote-addresses": "74.119.116.0 - 74.119.119.255",
 	    "protocol": "any",
-	    "notes": "Criteo"
+	    "notes": "Criteo Corp is a global technology company specializing in performance marketing and ad retargeting."
 	  },
 	  {
-	    "action": "deny",
+	    "action": "allow",
 	    "direction": "outgoing",
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
 	    "remote-addresses": "198.18.72.253",
 	    "protocol": "any",
-	    "notes": "On Jun 14, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to 198.18.72.253. The request was denied via connection alert."
+	    "notes": "Reserved by the Internet Assigned Numbers Authority (IANA) specifically for use in benchmarking and network testing, as defined in RFC 2544."
 	  },
 	  {
 	    "action": "deny",
@@ -281,16 +281,6 @@
 	    "remote-domains": "google.com.pk",
 	    "protocol": "any",
 	    "notes": "On Jun 17, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to www.google.com.pk. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "plus.google.com",
-	    "protocol": "any",
-	    "notes": "On May 8, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to plus.google.com. The request was denied via connection alert."
 	  },
 	  {
 	    "action": "deny",
