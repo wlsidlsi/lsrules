@@ -4530,16 +4530,6 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-domains": "soundcloud.com",
-	    "protocol": "any",
-	    "notes": "On Feb 5, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to w.soundcloud.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
 	    "remote-domains": "sp-prod.net",
 	    "protocol": "any",
 	    "notes": "On Jun 18, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to ccpa.sp-prod.net. The request was denied via connection alert."
