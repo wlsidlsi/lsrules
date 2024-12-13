@@ -2,6 +2,206 @@
 	"description": "",
 	"name": "Blocked",
 	"rules": [
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "adobe.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to adobe.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "altmetric.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to altmetric.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "browser-intake-us5-datadoghq.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to browser-intake-us5-datadoghq.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "covet.pics",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to covet.pics. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "decider.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to decider.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "dt.fox",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to dt.fox. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "geoproapp.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to geoproapp.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "honey.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to honey.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "intelligems.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to intelligems.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "ip-api.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to ip-api.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "linodeobjects.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to linodeobjects.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "logbase.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to logbase.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "loox.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to loox.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "nc0.co",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to nc0.co. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "nextdoor.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to nextdoor.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "ofgreencolumn.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to ofgreencolumn.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "okasconcepts.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to okasconcepts.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "pagefly.io",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to pagefly.io. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "wisepops.com",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to wisepops.com. The request was denied via connection alert."
+          },
+          {
+            "action": "deny",
+            "direction": "outgoing",
+            "priority": "regular",
+            "process": "any",
+            "owner": "any",
+            "remote-hosts": "wisepops.net",
+            "protocol": "any",
+            "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to wisepops.net. The request was denied via connection alert."
+          },
 	  {
 	    "action": "deny",
 	    "direction": "outgoing",
