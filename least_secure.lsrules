@@ -18,7 +18,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-domains": "domain arkoselabs.com",
+      "remote-hosts": "domain arkoselabs.com",
       "protocol": "any",
       "notes": "On Dec 23, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to adobe-api.arkoselabs.com. The request was denied via connection alert."
     },
@@ -260,7 +260,7 @@
       "priority": "regular",
       "process": "path.private/tmp/*/agshelper",
       "owner": "system",
-      "remote-domains": "domain adobe.com",
+      "remote-hosts": "domain adobe.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Jul 2, 2022, agshelper tried to establish a connection to genuine.adobe.com. The request was allowed via connection alert."
@@ -271,7 +271,7 @@
       "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd",
       "owner": "any",
-      "remote-domains": "domain apple.com",
+      "remote-hosts": "domain apple.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Mar 29, 2023, akd tried to establish a connection to gsa.apple.com. The request was allowed via connection alert."
@@ -326,7 +326,7 @@
       "priority": "regular",
       "process": "/System/Library/ExtensionKit/Extensions/AppleIDSettings.appex/Contents/MacOS/AppleIDSettings",
       "owner": "any",
-      "remote-domains": "domain apple.com",
+      "remote-hosts": "domain apple.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Mar 29, 2023, AppleIDSettings tried to establish a connection to gsa.apple.com. The request was allowed via connection alert."
@@ -337,7 +337,7 @@
       "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent",
       "owner": "any",
-      "remote-domains": "domain apple.com",
+      "remote-hosts": "domain apple.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Mar 29, 2023, appstoreagent tried to establish a connection to p10-buy.itunes.apple.com. The request was allowed via connection alert."
@@ -348,7 +348,7 @@
       "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/AppStoreComponents.framework/Support/appstorecomponentsd",
       "owner": "any",
-      "remote-domains": "domain apple.com",
+      "remote-hosts": "domain apple.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Mar 29, 2023, appstorecomponentsd tried to establish a connection to bag.itunes.apple.com. The request was allowed via connection alert."
@@ -359,7 +359,7 @@
       "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/AppStoreComponents.framework/Support/appstorecomponentsd",
       "owner": "any",
-      "remote-domains": "domain mzstatic.com",
+      "remote-hosts": "domain mzstatic.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Mar 29, 2023, appstorecomponentsd tried to establish a connection to apps.mzstatic.com. The request was allowed via connection alert."
@@ -381,7 +381,7 @@
       "priority": "regular",
       "process": "/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService",
       "owner": "any",
-      "remote-domains": "domain quad9.net",
+      "remote-hosts": "domain quad9.net",
       "ports": "443",
       "protocol": "any",
       "notes": "On Nov 8, 2022, AssetCacheLocatorService tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
@@ -392,7 +392,7 @@
       "priority": "regular",
       "process": "/Library/Application Support/Objective Development/Little Snitch/Components/at.obdev.littlesnitch.daemon.bundle/Contents/XPCServices/at.obdev.littlesnitch.urldownloader.xpc/Contents/MacOS/at.obdev.littlesnitch.urldownloader",
       "owner": "system",
-      "remote-domains": "domain rulegroups.com",
+      "remote-hosts": "domain rulegroups.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Feb 6, 2022, at.obdev.littlesnitch.urldownloader tried to establish a connection to dl.rulegroups.com. The request was allowed via connection alert."
@@ -403,7 +403,7 @@
       "priority": "regular",
       "process": "path.private/var/folders/*/Audiobus",
       "owner": "any",
-      "remote-domains": "domain amazonaws.com",
+      "remote-hosts": "domain amazonaws.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Jan 15, 2023, Audiobus tried to establish a connection to s3.amazonaws.com. The request was allowed via connection alert."
@@ -425,7 +425,7 @@
       "priority": "regular",
       "process": "path.private/var/folders/*/AutoFill",
       "owner": "any",
-      "remote-domains": "domain proton.me",
+      "remote-hosts": "domain proton.me",
       "ports": "443",
       "protocol": "any",
       "notes": "On Apr 13, 2024, AutoFill tried to establish a connection to pass-api.proton.me. The request was allowed via connection alert."
@@ -490,7 +490,7 @@
       "priority": "regular",
       "process": "/Applications/Bear.app/Contents/MacOS/Bear",
       "owner": "any",
-      "remote-domains": "domain aws.amazon.com",
+      "remote-hosts": "domain aws.amazon.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On May 6, 2022, Bear tried to establish a connection to docs.aws.amazon.com. The request was allowed via connection alert."
@@ -501,7 +501,7 @@
       "priority": "regular",
       "process": "/Applications/Bear.app/Contents/MacOS/Bear",
       "owner": "any",
-      "remote-domains": "domain adobe.com",
+      "remote-hosts": "domain adobe.com",
       "ports": "443",
       "protocol": "any",
       "notes": "On Jun 19, 2022, Bear tried to establish a connection to www.adobe.com. The request was allowed via connection alert."
@@ -567,7 +567,7 @@
       "priority": "regular",
       "process": "/Applications/Bear.app/Contents/MacOS/Bear",
       "owner": "any",
-      "remote-domains": "domain grpc.io",
+      "remote-hosts": "domain grpc.io",
       "ports": "443",
       "protocol": "any",
       "notes": "On May 12, 2022, Bear tried to establish a connection to grpc.io. The request was allowed via connection alert."
