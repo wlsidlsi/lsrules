@@ -377,7 +377,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-domains": "quad9.net",
+      "remote-hosts": "domain quad9.net",
       "ports": "any",
       "protocol": "any",
       "notes": "On Nov 8, 2022, AssetCacheLocatorService tried to establish a connection to dns.quad9.net. The request was allowed via connection alert."
