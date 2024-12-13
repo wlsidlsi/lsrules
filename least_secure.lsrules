@@ -157,28 +157,6 @@
       "priority": "regular",
       "process": "/Applications/1Password.app/Contents/MacOS/1Password",
       "owner": "any",
-      "remote-domains": "1password.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Mar 26, 2024, 1Password tried to establish a connection to my.1password.com. The request was allowed via connection alert."
-    },
-    {
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/Applications/1Password.app/Contents/MacOS/1Password",
-      "owner": "any",
-      "remote-domains": "1passwordusercontent.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Mar 26, 2024, 1Password tried to establish a connection to a.1passwordusercontent.com. The request was allowed via connection alert."
-    },
-    {
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/Applications/1Password.app/Contents/MacOS/1Password",
-      "owner": "any",
       "remote-domains": "agilebits.com",
       "ports": "443",
       "protocol": "any",
@@ -1014,28 +992,6 @@
       "ports": "443",
       "protocol": "any",
       "notes": "On Jan 6, 2023, Firefox Developer Edition tried to establish a connection to foxnewsplayer-a.akamaihd.net. The request was allowed via connection alert.",
-      "action": "allow"
-    },
-    {
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox",
-      "owner": "any",
-      "remote-domains": "1password.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On May 23, 2022, Firefox Developer Edition tried to establish a connection to 1password.com. The request was allowed via connection alert.",
-      "action": "allow"
-    },
-    {
-      "direction": "outgoing",
-      "priority": "regular",
-      "process": "/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox",
-      "owner": "any",
-      "remote-domains": "1passwordservices.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On May 23, 2022, Firefox Developer Edition tried to establish a connection to flow.1passwordservices.com. The request was allowed via connection alert.",
       "action": "allow"
     },
     {
@@ -3036,60 +2992,6 @@
       "notes": "On Jan 1, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to 1000logos.net. The request was allowed via connection alert.",
       "action": "allow",
       "direction": "outgoing"
-    },
-    {
-      "priority": "regular",
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "1password.ca",
-      "ports": "443",
-      "protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
-    {
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "1password.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 15, 2022, Safari via Safari Helper tried to establish a connection to b5n.1password.com. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular"
-    },
-    {
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "1password.eu",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 15, 2022, Safari via Safari Helper tried to establish a connection to accounts.1password.eu. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular"
-    },
-    {
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "1passwordservices.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jul 3, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to flow.1passwordservices.com. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular"
-    },
-    {
-      "process": "/Applications/Safari.app/Contents/MacOS/Safari",
-      "owner": "any",
-      "remote-domains": "1passwordusercontent.com",
-      "ports": "443",
-      "protocol": "any",
-      "notes": "On Jun 15, 2022, Safari via Safari Helper tried to establish a connection to a.1passwordusercontent.com. The request was allowed via connection alert.",
-      "action": "allow",
-      "direction": "outgoing",
-      "priority": "regular"
     },
     {
       "process": "/Applications/Safari.app/Contents/MacOS/Safari",
