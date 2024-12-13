@@ -293,7 +293,7 @@
       "priority": "regular",
       "process": "path.private/var/folders/*/Amazon Photos Installer.app/Contents/MacOS/Amazon Photos Installer",
       "owner": "any",
-      "remote-domains": "domain cloudfront.net",
+      "remote-hosts": "domain cloudfront.net",
       "ports": "443",
       "protocol": "any",
       "notes": "On Jan 28, 2023, Amazon Photos Installer tried to establish a connection to d29x207vrinatv.cloudfront.net. The request was allowed via connection alert."
