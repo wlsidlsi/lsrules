@@ -1027,16 +1027,6 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-domains": "ads-twitter.com",
-	    "protocol": "any",
-	    "notes": "On Feb 7, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to static.ads-twitter.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
 	    "remote-domains": "adsafeprotected.com",
 	    "protocol": "any",
 	    "notes": "On Feb 5, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to cdn.adsafeprotected.com. The request was denied via connection alert."
@@ -3165,16 +3155,6 @@
 	    "remote-domains": "mailerlite.com",
 	    "protocol": "any",
 	    "notes": "On Jan 11, 2023, Firefox Developer Edition tried to establish a connection to static.mailerlite.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
-	    "remote-domains": "mapbox.com",
-	    "protocol": "any",
-	    "notes": "On Jan 15, 2023, Firefox Developer Edition tried to establish a connection to api.mapbox.com. The request was denied via connection alert."
 	  },
 	  {
 	    "action": "deny",
