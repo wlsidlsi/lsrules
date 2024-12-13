@@ -992,7 +992,7 @@
 	    "notes": "On Jan 15, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to japfg-trending-content.appspot.com. The request was denied via connection alert."
 	  },
 	  {
-	    "action": "deny",
+	    "action": "allow",
 	    "direction": "outgoing",
 	    "priority": "regular",
 	    "process": "any",
