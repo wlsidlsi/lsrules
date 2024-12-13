@@ -10,7 +10,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to 247-inc.net. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -21,7 +21,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to a79ab95c1589a13f8a4cab612bc71f9f7.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -32,7 +32,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to addons.business. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -43,7 +43,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to b406929acabac9b095f124c81bdfcf57f.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -54,7 +54,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to bloomreach.co. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -65,7 +65,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to branch.io. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -76,7 +76,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to c81358859121583b7adf2ace89cb39f44.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -87,7 +87,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to clicktale.net. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -98,7 +98,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to clinch.co. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -109,7 +109,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to cultivatefox.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -120,7 +120,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to dotdashmeredith.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -131,7 +131,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to ecorebates.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -142,7 +142,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to freshchat.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -153,7 +153,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to fullstory.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -164,7 +164,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to heyflow.app. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -175,7 +175,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to inq.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -186,7 +186,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to ispot.tv. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -197,7 +197,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to lightboxcdn.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -208,7 +208,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to limelight.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -219,7 +219,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to nosto.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -230,7 +230,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to play4free.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -241,7 +241,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to sprinklr.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -252,7 +252,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to umgapps.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -263,7 +263,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to w-x.co. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -274,7 +274,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to we-stats.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -285,7 +285,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to wowscale.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           { 
@@ -296,7 +296,7 @@
             "ports": "any",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to zopim.com. The request was allowed via connection alert.", 
-            "action": "allow",
+            "action": "deny",
             "direction": "any"
           },
           {
