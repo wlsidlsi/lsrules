@@ -6,6 +6,17 @@
       "priority": "regular",
       "process": "identifier.KL8N8XSYF4/com.brave.Browser",
       "owner": "any",
+      "remote-domains": "hosted-by-discourse.com",
+      "ports": "443",
+      "protocol": "any",
+      "notes": "On Dec 13, 2024, Safari via com.apple.WebKit.Networking tried to establish a connection to aaplimg.com. The request was allowed via connection alert.", 
+      "action": "allow",
+      "direction": "outgoing"
+    },
+    { 
+      "priority": "regular",
+      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
+      "owner": "any",
       "remote-domains": "aaplimg.com",
       "ports": "443",
       "protocol": "any",
