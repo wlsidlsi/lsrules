@@ -4998,16 +4998,6 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-domains": "vimeo.com",
-	    "protocol": "any",
-	    "notes": "On Feb 8, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to player.vimeo.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "any",
-	    "owner": "any",
 	    "remote-domains": "vlitag.com",
 	    "protocol": "any",
 	    "notes": "On Dec 14, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to services.vlitag.com. The request was denied via connection alert."
