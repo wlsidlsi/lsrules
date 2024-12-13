@@ -8,6 +8,27 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
+      "remote-addresses": "198.18.0.0 - 198.19.255.255",
+      "protocol": "any",
+      "notes": "Reserved by the Internet Assigned Numbers Authority (IANA) specifically for use in benchmarking and network testing, as defined in RFC 2544."
+    },
+    {
+      "action": "allow",
+      "direction": "outgoing",
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "arkoselabs.com",
+      "protocol": "any",
+      "notes": "On Dec 23, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to adobe-api.arkoselabs.com. The request was denied via connection alert."
+    },
+
+    {
+      "action": "allow",
+      "direction": "outgoing",
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
       "remote-addresses": "64.233.160.0-64.233.191.255",
       "ports": "443",
       "protocol": "any",
