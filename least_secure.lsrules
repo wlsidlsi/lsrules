@@ -36,7 +36,7 @@
       "priority": "regular",
       "process": "any",
       "owner": "any",
-      "remote-hosts": "domain arkoselabs.com",
+      "remote-domains": "arkoselabs.com",
       "protocol": "any",
       "notes": "On Dec 23, 2022, Safari via com.apple.WebKit.Networking tried to establish a connection to adobe-api.arkoselabs.com. The request was denied via connection alert."
     },
