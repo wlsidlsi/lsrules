@@ -9,7 +9,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "parallels.com",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -18,7 +18,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "akamaiedge.net",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -27,7 +27,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "mindnode.com",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -36,7 +36,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "gemini.google",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -45,7 +45,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "blog.google",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -54,7 +54,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "akamai.com",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -63,7 +63,7 @@
       "process": "any",
       "owner": "any",
       "remote-domains": "amazonaws.com",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
@@ -513,7 +513,7 @@
       "priority": "regular",
       "process": "/Applications/Bitdefender/AntivirusforMac.app/Contents/Daemons/BDUpdDaemon",
       "owner": "system",
-      "protocol": "any",
+      "protocol": "any"
     },
     {
       "action": "allow",
