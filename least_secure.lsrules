@@ -1,6 +1,6 @@
 {
   "description": "",
-  "name": "Least Secure",
+  "name": "Chrome",
   "rules": [
     {
       "action": "allow",

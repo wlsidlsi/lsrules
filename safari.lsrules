@@ -1,52 +1,7 @@
 {
   "description": "",
-  "name": "Brave",
+  "name": "Safari",
   "rules": [
-    {
-      "priority": "regular",
-      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
-      "owner": "any",
-      "remote-domains": "bitdefender.net",
-      "ports": "443","protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
-    {
-      "priority": "regular",
-      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
-      "owner": "any",
-      "remote-domains": "ggpht.com",
-      "ports": "443","protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
-    {
-      "priority": "regular",
-      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
-      "owner": "any",
-      "remote-domains": "github.com",
-      "ports": "443","protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
-    {
-      "priority": "regular",
-      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
-      "owner": "any",
-      "remote-domains": "proton.me",
-      "ports": "443","protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
-    {
-      "priority": "regular",
-      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
-      "owner": "any",
-      "remote-domains": "zopim.com",
-      "ports": "443","protocol": "any",
-      "action": "allow",
-      "direction": "outgoing"
-    },
     { 
       "priority": "regular",
       "process": "identifier.KL8N8XSYF4/com.brave.Browser",
