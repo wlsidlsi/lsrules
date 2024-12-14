@@ -305,7 +305,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain app-analytics-services.com",
+            "remote-domains": "app-analytics-services.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to app-analytics-services.com. The request was denied via connection alert."
           },
@@ -315,7 +315,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain cdngslb.com",
+            "remote-domains": "cdngslb.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to cdngslb.com. The request was denied via connection alert."
           },
@@ -325,7 +325,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain chimpstatic.com",
+            "remote-domains": "chimpstatic.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to chimpstatic.com. The request was denied via connection alert."
           },
@@ -335,7 +335,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain clan.su",
+            "remote-domains": "clan.su",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to clan.su. The request was denied via connection alert."
           },
@@ -345,7 +345,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain edgio.net",
+            "remote-domains": "edgio.net",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to edgio.net. The request was denied via connection alert."
           },
@@ -355,7 +355,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain factsetdigitalsolutions.com",
+            "remote-domains": "factsetdigitalsolutions.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to factsetdigitalsolutions.com. The request was denied via connection alert."
           },
@@ -365,7 +365,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain kunlungr.com",
+            "remote-domains": "kunlungr.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to kunlungr.com. The request was denied via connection alert."
           },
@@ -375,7 +375,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain mykaleidoscope.ru",
+            "remote-domains": "mykaleidoscope.ru",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to mykaleidoscope.ru. The request was denied via connection alert."
           },
@@ -385,7 +385,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain pubmnet.com",
+            "remote-domains": "pubmnet.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to pubmnet.com. The request was denied via connection alert."
           },
@@ -395,7 +395,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain tech.lgbt",
+            "remote-domains": "tech.lgbt",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to tech.lgbt. The request was denied via connection alert."
           },
@@ -405,7 +405,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain wondershare.com",
+            "remote-domains": "wondershare.com",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to wondershare.com. The request was denied via connection alert."
           },
@@ -415,7 +415,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain wpsoul.net",
+            "remote-domains": "wpsoul.net",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to wpsoul.net. The request was denied via connection alert."
           },
@@ -425,7 +425,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain yahoodns.net",
+            "remote-domains": "yahoodns.net",
             "protocol": "any",
             "notes": "On Dec 13, 2024, Brave Browser via Brave Browser Helper tried to establish a connection to yahoodns.net. The request was denied via connection alert."
           },
@@ -435,7 +435,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain adobe.io",
+            "remote-domains": "adobe.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to adobe.io. The request was denied via connection alert."
           },
@@ -445,7 +445,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain altmetric.com",
+            "remote-domains": "altmetric.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to altmetric.com. The request was denied via connection alert."
           },
@@ -455,7 +455,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain browser-intake-us5-datadoghq.com",
+            "remote-domains": "browser-intake-us5-datadoghq.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to browser-intake-us5-datadoghq.com. The request was denied via connection alert."
           },
@@ -465,7 +465,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain covet.pics",
+            "remote-hosts": "covet.pics",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to covet.pics. The request was denied via connection alert."
           },
@@ -475,7 +475,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain decider.com",
+            "remote-domains": "decider.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to decider.com. The request was denied via connection alert."
           },
@@ -485,7 +485,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain dt.fox",
+            "remote-domains": "dt.fox",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to dt.fox. The request was denied via connection alert."
           },
@@ -495,7 +495,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain geoproapp.com",
+            "remote-domains": "geoproapp.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to geoproapp.com. The request was denied via connection alert."
           },
@@ -505,7 +505,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain honey.io",
+            "remote-domains": "honey.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to honey.io. The request was denied via connection alert."
           },
@@ -515,7 +515,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain intelligems.io",
+            "remote-domains": "intelligems.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to intelligems.io. The request was denied via connection alert."
           },
@@ -525,7 +525,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain ip-api.com",
+            "remote-domains": "ip-api.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to ip-api.com. The request was denied via connection alert."
           },
@@ -535,7 +535,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain linodeobjects.com",
+            "remote-domains": "linodeobjects.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to linodeobjects.com. The request was denied via connection alert."
           },
@@ -545,7 +545,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain logbase.io",
+            "remote-domains": "logbase.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to logbase.io. The request was denied via connection alert."
           },
@@ -555,7 +555,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain loox.io",
+            "remote-domains": "loox.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to loox.io. The request was denied via connection alert."
           },
@@ -565,7 +565,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain nc0.co",
+            "remote-domains": "nc0.co",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to nc0.co. The request was denied via connection alert."
           },
@@ -575,7 +575,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain nextdoor.com",
+            "remote-domains": "nextdoor.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to nextdoor.com. The request was denied via connection alert."
           },
@@ -585,7 +585,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain ofgreencolumn.com",
+            "remote-domains": "ofgreencolumn.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to ofgreencolumn.com. The request was denied via connection alert."
           },
@@ -595,7 +595,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain okasconcepts.com",
+            "remote-domains": "okasconcepts.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to okasconcepts.com. The request was denied via connection alert."
           },
@@ -605,7 +605,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain pagefly.io",
+            "remote-domains": "pagefly.io",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to pagefly.io. The request was denied via connection alert."
           },
@@ -615,7 +615,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain wisepops.com",
+            "remote-domains": "wisepops.com",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to wisepops.com. The request was denied via connection alert."
           },
@@ -625,7 +625,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "domain wisepops.net",
+            "remote-domains": "wisepops.net",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to wisepops.net. The request was denied via connection alert."
           },
