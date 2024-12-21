@@ -2,6 +2,16 @@
   "description": "",
   "name": "Brave",
   "rules": [
+     {
+      "priority": "regular",
+      "process": "identifier.KL8N8XSYF4/com.brave.Browser",
+      "owner": "any",
+      "remote-domains": "onetrust.com",
+      "ports": "443",
+      "protocol": "any",
+      "action": "allow",
+      "direction": "outgoing"
+    },
     {
       "priority": "regular",
       "process": "identifier.KL8N8XSYF4/com.brave.Browser",
