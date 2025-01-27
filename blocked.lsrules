@@ -5541,6 +5541,159 @@
 	    "owner": "any",
 	    "remote-domains": "futurehybrid.tech",
 	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "picclick.com.au",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "urbanworld.com.au",
+	    "protocol": "any"
+	  },
+	  {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "rubiconproject.net.akadns.net",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hexagon-analytics.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hextom.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hmmagazine.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hmmagazine.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hs-analytics.net",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hubvisor.io",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "hypb.st",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "iconify.design",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "identityservices.io",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "if-cdn.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "iframe.ly",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "impactcdn.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "impactradius-event.com",
+	    "protocol": "any"
+	  },
+    {
+	    "action": "deny",
+	    "direction": "outgoing",
+	    "priority": "regular",
+	    "process": "any",
+	    "owner": "any",
+	    "remote-domains": "incontact.com",
+	    "protocol": "any"
 	  }
 	]
 }
