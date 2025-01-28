@@ -465,7 +465,7 @@
             "priority": "regular",
             "process": "any",
             "owner": "any",
-            "remote-hosts": "covet.pics",
+            "remote-domains": "covet.pics",
             "protocol": "any",
             "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to covet.pics. The request was denied via connection alert."
           },
@@ -655,7 +655,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "bibblio.org",
+	    "remote-domains": "bibblio.org",
 	    "protocol": "any",
 	    "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to api.bibblio.org. The request was denied via connection alert."
 	  },
@@ -665,7 +665,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "improving.duckduckgo.com",
+	    "remote-domains": "improving.duckduckgo.com",
 	    "protocol": "any",
 	    "notes": "On May 1, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to improving.duckduckgo.com. The request was denied via connection alert."
 	  },
@@ -675,7 +675,7 @@
 	    "priority": "regular",
 	    "process": "any",
 	    "owner": "any",
-	    "remote-hosts": "collector.github.com",
+	    "remote-domains": "collector.github.com",
 	    "protocol": "any",
 	    "notes": "On May 6, 2022, Brave Browser via Brave Browser Helper tried to establish a connection to collector.github.com. The request was denied via connection alert."
 	  },
@@ -5468,15 +5468,6 @@
 	    "remote-domains": "zohopublic.com",
 	    "protocol": "any",
 	    "notes": "On Jan 27, 2023, Safari via com.apple.WebKit.Networking tried to establish a connection to forms.zohopublic.com. The request was denied via connection alert."
-	  },
-	  {
-	    "action": "deny",
-	    "direction": "outgoing",
-	    "priority": "regular",
-	    "process": "/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed",
-	    "owner": "any",
-	    "protocol": "any",
-	    "notes": "On Apr 13, 2024, gamed tried to establish a connection to 17.188.180.200. The request was denied via connection alert."
 	  },
 	  {
 	    "action": "deny",
