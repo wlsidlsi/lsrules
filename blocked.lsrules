@@ -6697,6 +6697,609 @@
       "protocol": "any",
       "action": "deny",
       "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "githubusercontent.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "acxiom.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "adstk.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "aliexpres.us",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "attribuly.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "birdeye.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "bloomreach.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "boomtrain.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "brandfolder.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "brimg.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "cloudimg.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "cq0.co",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "dailydeals.ai",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "datasteam.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "dlocal.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "dolimg.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "embl.org",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "fireworkapi1.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "five9.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "flix360.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "flixcar.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "found.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "fullcircleinsights.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "ghost.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "guance.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "helloextend.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "hi5.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "leetcode.cn",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "mambasms.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "mastodon.social",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "nice-team.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "nsvcs.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "onvesper.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "orichi.info",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "pathmonk.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "protechts.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "pushowl.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "recombee.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "requarks.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "secureserver.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "uptick.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "widen.net",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "zeronaught.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "zineone.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "33across.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "506.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "clarium.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "cnevids.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "conde.digital",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "condenast.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "credible.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "doubleverify.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "ebayadservices.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "engagement.ai",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "found.ee",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "hayao-k.dev",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "id5-sync.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "infogram.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "inkfrog.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "kargo.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "optable.co",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "pghub.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "rtactivate.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "sail-personalize.com",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "umbraco.io",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "w.org",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
+    },
+    {
+      "priority": "regular",
+      "process": "any",
+      "owner": "any",
+      "remote-domains": "yadro.ru",
+      "protocol": "any",
+      "action": "deny",
+      "direction": "any"
     }
   ]
 }
